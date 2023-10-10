@@ -1,7 +1,7 @@
 {
     "version_1":[
-        ["V", "https://huggingface.co/Trangluna2002/Trangluna-RVC-KPOP/resolve/main/taehyung.zip"]
-],
+        ["V", "https://huggingface.co/Trangluna2002/Trangluna-RVC-KPOP/resolve/main/taehyung.zip"],
+    ],
     "version_2":[
         ["RM", "https://huggingface.co/Trangluna2002/Trangluna-RVC-KPOP/resolve/main/Namjoon_rmvpe.zip"],
         ["Jin", "https://huggingface.co/Trangluna2002/Trangluna-RVC-KPOP/resolve/main/JinAI.zip"],
@@ -9,7 +9,7 @@
         ["J-Hope", "https://huggingface.co/Trangluna2002/Trangluna-RVC-KPOP/resolve/main/Hoseok_rmvpe.zip"],
         ["Jimin", "https://huggingface.co/natanworkspace/JiminRVC/resolve/main/jimin_rvc2_800epoch.zip"],
         ["Jungkook", "https://huggingface.co/Trangluna2002/Trangluna-RVC-KPOP/resolve/main/JungkookAI2.zip"]
-],
+    ],
     "list": [
         "V",
         "RM",
