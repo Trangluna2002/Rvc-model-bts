@@ -10,7 +10,7 @@
         ["Jimin", "https://huggingface.co/natanworkspace/JiminRVC/resolve/main/jimin_rvc2_800epoch.zip"],
         ["Jungkook", "https://huggingface.co/Trangluna2002/Trangluna-RVC-KPOP/resolve/main/JungkookAI2.zip"]
     ],
-    "list": [
+    "list":[
         "V",
         "RM",
         "Jin",
