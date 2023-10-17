@@ -5,7 +5,7 @@
     "version_2":[
         ["RM", "https://huggingface.co/Trangluna2002/Trangluna-RVC-KPOP/resolve/main/Namjoon_rmvpe.zip"],
         ["Jin", "https://huggingface.co/Trangluna2002/Trangluna-RVC-KPOP/resolve/main/JinAI.zip"],
-        ["Suga", "https://huggingface.co/Trangluna2002/Trangluna-RVC-KPOP/resolve/main/Suga_e200.zip"],
+        ["Suga", "https://huggingface.co/4naluvs/SugaRap/resolve/main/SugaRap.zip"],
         ["J-Hope", "https://huggingface.co/Trangluna2002/Trangluna-RVC-KPOP/resolve/main/Hoseok_rmvpe.zip"],
         ["Jimin", "https://huggingface.co/natanworkspace/JiminRVC/resolve/main/jimin_rvc2_800epoch.zip"],
         ["Jungkook", "https://huggingface.co/Trangluna2002/Trangluna-RVC-KPOP/resolve/main/JungkookAI2.zip"]
